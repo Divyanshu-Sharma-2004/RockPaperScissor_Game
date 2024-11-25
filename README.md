@@ -6,9 +6,6 @@ Welcome to the **Rock Paper Scissors Game**! This is a simple web-based game whe
 - [Features](#features)
 - [How to Play](#how-to-play)
 - [Technologies Used](#technologies-used)
-- [Setup and Installation](#setup-and-installation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -35,3 +32,9 @@ This is an interactive **Rock Paper Scissors** game built using HTML, CSS, and J
    - If you lose, the message will display the computer's win.
    - If it's a tie, the message will show that it's a draw.
 5. The scores are updated automatically after each round.
+
+## Technologies Used
+
+- **HTML**: Structure of the game interface.
+- **CSS**: Styling for the game, including dynamic updates for win/loss results.
+- **JavaScript**: Game logic, handling user input, generating computer choice, determining the winner, and updating the score.
